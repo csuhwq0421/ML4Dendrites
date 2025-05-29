@@ -31,4 +31,4 @@ shap  0.47.0
 ## Citation
 
 ## License
-This project is licensed under the terms of the MIT license. See [LICENSE]() for additional details
+This project is licensed under the terms of the MIT license. See [LICENSE](https://github.com/csuhwq0421/ML4Dendritic/blob/main/LICENSE) for additional details
