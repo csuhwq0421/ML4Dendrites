@@ -7,6 +7,8 @@ Taking the dendrite growth of rhenium selenide (ReSe2) materials as an example, 
 * **Data expansion**  : designed to filter the data points with the largest MAE on the Bayesian dataset and then conduct experiments near these points to supplement the data.
 + **Explainable ML process** : designed to interprete the XGBoost model via SHAP techniques.
 
+Specific details can be referred to the code comments.
+
 ## Hardware requirements
 You can run all the code completely on your PC.
 
