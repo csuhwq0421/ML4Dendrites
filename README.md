@@ -3,9 +3,9 @@
 Taking the dendrite growth of rhenium selenide (ReSe2) materials as an example, ML4dendritic contains code for a two-stage machine learning framework: 1) Parameter optimization, which enables rapid optimization of chemical vapor deposition (CVD) synthesis parameters of high-branching two-dimensional dendrites through Bayesian optimization; 2) mechanistic comprehension: quantitatively understand the relationship between CVD multi-parameters and material morphology through interpretable machine learning techniques. Between these two parts, we design the data extension module to make the model of the mechanism understanding stage accurate enough.
 
 ### Data and Code Description
-- **Bayesian optimization** :designed to quickly optimize the CVD parameters for the high fractal dimension of the 2D ReSe2.
-* **Data expansion**  :designed to filter the data points with the largest MAE on the Bayesian dataset and then conduct experiments near these points to supplement the data.
-+ **Explainable ML process** :designed to interprete the XGBoost model via SHAP techniques.
+- **Bayesian optimization** : designed to quickly optimize the CVD parameters for the high fractal dimension of the 2D ReSe2.
+* **Data expansion**  : designed to filter the data points with the largest MAE on the Bayesian dataset and then conduct experiments near these points to supplement the data.
++ **Explainable ML process** : designed to interprete the XGBoost model via SHAP techniques.
   
 ### Python Dependencies
 ```
