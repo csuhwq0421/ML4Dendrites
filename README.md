@@ -11,6 +11,9 @@ Taking the dendrite growth of rhenium selenide (ReSe2) materials as an example, 
 You can run all the code completely on your PC.
 
 ## Python Dependencies
+
+Installation Requirements:
+Python 3.8 is recommended.
 ```
 emukit 0.4.11
 emcee 3.1.6
