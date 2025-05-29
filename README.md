@@ -6,7 +6,8 @@ Taking the dendrite growth of rhenium selenide (ReSe2) materials as an example, 
 - **Bayesian optimization** : designed to quickly optimize the CVD parameters for the high fractal dimension of the 2D ReSe2.
 * **Data expansion**  : designed to filter the data points with the largest MAE on the Bayesian dataset and then conduct experiments near these points to supplement the data.
 + **Explainable ML process** : designed to interprete the XGBoost model via SHAP techniques.
-  
+### Hardware requirements
+You can run all the code completely on your PC.
 ### Python Dependencies
 ```
 emukit 0.4.11
