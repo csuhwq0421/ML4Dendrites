@@ -1,4 +1,4 @@
-# ML4Dendritic
+# ML4Dendrites
 ## ML4Dendritic is the Official Repository for the paper ‘Machine intelligence-guided growth and multifactorial mechanism deciphering of two-dimensional ReSe2 dendrites’.
 Taking the dendrite growth of rhenium selenide (ReSe2) materials as an example, ML4dendritic contains code for a two-stage machine learning framework: 1) Parameter optimization, which enables rapid optimization of chemical vapor deposition (CVD) synthesis parameters of high-branching two-dimensional dendrites through Bayesian optimization; 2) mechanistic comprehension: quantitatively understand the relationship between CVD multi-parameters and material morphology through interpretable machine learning techniques. Between these two parts, we design the data extension module to make the model of the mechanism understanding stage accurate enough.
 
