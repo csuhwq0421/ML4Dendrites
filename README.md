@@ -1,14 +1,16 @@
 # ML4Dendrites
-## ML4Dendrites is the Official Repository for the paper ‘Machine intelligence supports the full chain of material synthesis: A case study on chemical vapor deposition growth of 2D ReSe2 dendrites’.
+## ML4Dendrites is the Official Repository for the paper ‘Data-knowledge dual-driven intelligent framework for full-chain, experiment-efficient synthesis of 2D dendrites’.
 
-Wenqiang Huang1,2,3,7, Susu Fang2,7*, Xuhang Gu3,7, Shen’ao Xue1,2, Huanhuan Xing2, Junjie Jiang1,2, Shen Zhou4, Zheng Luo2, Jin Zhang3, Fangping Ouyang1,5,6*, and Shanshan Wang2,3*  
-1 School of Physics, Hunan Key Laboratory for Super-Microstructure and Ultrafast Process, and Hunan Key Laboratory of Nanophotonics and Devices, Central South University, Changsha 410083, China  
-2 Department of Materials, College of Aerospace Science and Engineering, National University of Defense Technology, Changsha 410000, China  
-3 School of Advanced Materials, Guangdong Provincial Key Laboratory of Nano-Micro Materials Research, Peking University Shenzhen Graduate School, Shenzhen 518055, China  
-4 College of Science, National University of Defense Technology, Changsha 410000, China   
-5 School of Physics and Technology, and Xinjiang Key Laboratory of Solid-State Physics and Devices, Xinjiang University, Urumqi 830046, China  
-6 State Key Laboratory of Powder Metallurgy, and Powder Metallurgy Research Institute, Central South University, Changsha 410083, China  
-7 These authors contributed equally.  
+Wenqiang Huang1,2,†, Susu Fang2,†,*, Xuhang Gu3,†, Shen’ao Xue1,2, Huanhuan Xing2, Junjie Jiang1,2, Junying Zhang1,2, Shen Zhou4, Zheng Luo2, Fangping Ouyang*, & Shanshan Wang*
+
+1 School of Physics, Hunan Key Laboratory for Super-Microstructure and Ultrafast Process, and Hunan Key Laboratory of Nanophotonics and Devices, Central South University, Changsha 410083, China
+2 College of Aerospace Science and Engineering, National University of Defense Technology, Changsha 410000, China
+3 School of Advanced Materials, Peking University Shenzhen Graduate School, Shenzhen, Guangdong 518055, China
+4 College of Science, National University of Defense Technology, Changsha 410000, China
+5 School of Physics and Technology, State Key Laboratory of Chemistry and Utilization of Carbon Based Energy Resources, Xinjiang University, Urumqi 830046, China
+6 State Key Laboratory of Powder Metallurgy, and Powder Metallurgy Research Institute, Central South University, Changsha 410083, China
+7 Guangdong Provincial Key Laboratory of Nano-Micro Materials Research, Peking University Shenzhen Graduate School, Shenzhen 518055, China
+† These authors contributed equally to this work.
 * Corresponding authors: S.F. (fangsusugfkd@nudt.edu.cn); F.O. (oyfp@csu.edu.cn); S.W. (wangshanshan08@nudt.edu.cn)  
 
 
@@ -26,7 +28,7 @@ You can run all the code completely on your PC.
 ## Python Dependencies
 
 Installation Requirements:
-Python 3.8 is recommended.
+Python 3.10 is recommended.
 ```
 emukit 0.4.11
 emcee 3.1.6
